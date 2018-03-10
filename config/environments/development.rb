@@ -51,4 +51,8 @@ Rails.application.configure do
   # Use an evented file watcher to asynchronously detect changes in source code,
   # routes, locales, etc. This feature depends on the listen gem.
   config.file_watcher = ActiveSupport::EventedFileUpdateChecker
+
+  # Update this with your ngrok ip address to use pry with ngrok
+  config.web_console.whitelisted_ips = ENV['NGROK_WHITELISTED_IP']
+
 end

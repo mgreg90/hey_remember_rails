@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Currently In development
+======
 
-Things you may want to cover:
+This is a Ruby on Rails back end to complement the Android front end
+found [here](https://github.com/mgreg90/HeyRememberAndroid).
 
-* Ruby version
+The goal of this project is to be able to provide location based reminders.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I'll write the rest of this thing if it ever comes to life.
